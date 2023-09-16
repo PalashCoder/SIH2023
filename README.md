@@ -10,15 +10,15 @@ You may also see any lint errors in the console.
 
 ### `Current Problems :-`
 
-1. There is form fot taking input and due to form default behaviour after pressing enter or clicking send, the page is refreshing the the information above also gone with it. <h3>Have to prevent the default behave of refreshing and make the information stay</h3>
+1. There is form for taking input and due to form default behaviour after pressing enter or clicking send, the page is refreshing the the information above also gone with it. <h3>Have to prevent the default behave of refreshing and make the information stay</h3>
 
-2. Have to thing how can we add the python backend, there are three possible ways
+2. Have to think how can we add the python backend, there are three possible ways
     <ul>
       <li>
         I. Have to use any python framework in backend like flask or django.
       </li>
       <li>
-        II. Have to make the backend work as API and host it remotely to sent http request with input and take all informations.
+        II. Have to make the backend work as API and host it remotely to sent http request with input and fetch all informations.
       </li>
       <li>
         III. Have to use it as backend and make request through frontend to back and fetch informations. (In this technique I dont know to work as I have never use python in my webdev. 
